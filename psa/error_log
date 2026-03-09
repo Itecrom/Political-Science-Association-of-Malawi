@@ -1,0 +1,549 @@
+[13-Jul-2025 10:56:54 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 10:56:54 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 10:56:54 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 10:56:54 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 10:56:54 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 10:56:54 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 10:56:54 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 10:56:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:00:10 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:10 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:10 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:10 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:10 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:10 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:10 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:00:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:00:13 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:13 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:13 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:13 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:13 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:13 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:13 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:00:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:00:15 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:15 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:15 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:15 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:15 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:15 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:15 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:00:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:00:16 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:16 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:16 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:16 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:16 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:16 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:16 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:00:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:00:41 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:41 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:41 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:00:41 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:41 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:41 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:00:41 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:00:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:03:05 UTC] PHP Warning:  include(/includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:03:05 UTC] PHP Warning:  include(/includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:03:05 UTC] PHP Warning:  include(): Failed opening '/includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:03:05 UTC] PHP Warning:  include(/includes/header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:03:05 UTC] PHP Warning:  include(/includes/header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:03:05 UTC] PHP Warning:  include(): Failed opening '/includes/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:03:05 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:03:32 UTC] PHP Warning:  include(/includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:03:32 UTC] PHP Warning:  include(/includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:03:32 UTC] PHP Warning:  include(): Failed opening '/includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:03:32 UTC] PHP Warning:  include(/includes/header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:03:32 UTC] PHP Warning:  include(/includes/header.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:03:32 UTC] PHP Warning:  include(): Failed opening '/includes/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 19
+[13-Jul-2025 11:03:32 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:04:56 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:04:56 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:04:56 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 1
+[13-Jul-2025 11:04:56 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 11:04:56 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 11:04:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home1.php on line 39
+[13-Jul-2025 12:31:26 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 305
+[13-Jul-2025 12:31:26 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 305
+[13-Jul-2025 12:31:26 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 305
+[13-Jul-2025 12:31:26 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 343
+[13-Jul-2025 12:31:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:343
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 343
+[13-Jul-2025 12:32:16 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 305
+[13-Jul-2025 12:32:16 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 305
+[13-Jul-2025 12:32:16 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 305
+[13-Jul-2025 12:32:16 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 344
+[13-Jul-2025 12:32:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 344
+[13-Jul-2025 12:42:33 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 343
+[13-Jul-2025 12:42:33 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 343
+[13-Jul-2025 12:42:33 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 343
+[13-Jul-2025 12:42:33 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 344
+[13-Jul-2025 12:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 344
+[13-Jul-2025 12:43:48 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 317
+[13-Jul-2025 12:43:48 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 317
+[13-Jul-2025 12:43:48 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 317
+[13-Jul-2025 12:43:48 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 318
+[13-Jul-2025 12:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:318
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 318
+[13-Jul-2025 12:44:19 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 313
+[13-Jul-2025 12:44:19 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 313
+[13-Jul-2025 12:44:19 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 313
+[13-Jul-2025 12:44:19 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 314
+[13-Jul-2025 12:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:314
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 314
+[13-Jul-2025 12:44:48 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 310
+[13-Jul-2025 12:44:48 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 310
+[13-Jul-2025 12:44:48 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 310
+[13-Jul-2025 12:44:48 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 311
+[13-Jul-2025 12:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:311
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 311
+[13-Jul-2025 12:59:24 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 309
+[13-Jul-2025 12:59:24 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 309
+[13-Jul-2025 12:59:24 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 309
+[13-Jul-2025 12:59:24 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 310
+[13-Jul-2025 12:59:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:310
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 310
+[13-Jul-2025 13:03:36 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 309
+[13-Jul-2025 13:03:36 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 309
+[13-Jul-2025 13:03:36 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 309
+[13-Jul-2025 13:03:36 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 310
+[13-Jul-2025 13:03:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:310
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 310
+[13-Jul-2025 13:05:10 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 325
+[13-Jul-2025 14:09:53 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 325
+[13-Jul-2025 14:27:40 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 325
+[13-Jul-2025 14:28:09 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 325
+[13-Jul-2025 14:49:43 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 324
+[13-Jul-2025 15:02:17 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 385
+[13-Jul-2025 15:02:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:385
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 385
+[13-Jul-2025 15:03:22 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 385
+[13-Jul-2025 15:03:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:385
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 385
+[13-Jul-2025 15:06:43 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 310
+[13-Jul-2025 15:06:43 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 310
+[13-Jul-2025 15:06:43 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 310
+[13-Jul-2025 15:06:43 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 311
+[13-Jul-2025 15:06:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:311
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 311
+[13-Jul-2025 15:13:34 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 314
+[13-Jul-2025 15:13:34 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 314
+[13-Jul-2025 15:13:34 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 314
+[13-Jul-2025 15:13:34 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 315
+[13-Jul-2025 15:13:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:315
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 315
+[13-Jul-2025 15:45:09 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 392
+[13-Jul-2025 15:45:09 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 392
+[13-Jul-2025 15:45:09 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 392
+[13-Jul-2025 15:45:09 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 394
+[13-Jul-2025 15:45:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:394
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 394
+[13-Jul-2025 15:47:12 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 392
+[13-Jul-2025 15:47:12 UTC] PHP Warning:  include(includes/db.php): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 392
+[13-Jul-2025 15:47:12 UTC] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 392
+[13-Jul-2025 15:47:12 UTC] PHP Warning:  Undefined variable $conn in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 394
+[13-Jul-2025 15:47:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php:394
+Stack trace:
+#0 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 394
+[13-Jul-2025 15:49:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 15:49:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 15:50:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 15:50:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 16:45:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 16:45:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 16:45:55 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 16:45:55 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 16:49:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 16:49:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 16:49:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 16:49:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 401
+[13-Jul-2025 16:57:48 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 17:00:38 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:10:23 UTC] PHP Warning:  Undefined array key "admin" in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 55
+[13-Jul-2025 18:15:06 UTC] PHP Warning:  move_uploaded_file(uploads/blogsingle.jpg): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/add_news.php on line 21
+[13-Jul-2025 18:15:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpQws3l6&quot; to &quot;uploads/blogsingle.jpg&quot; in /home/yissahf1/psa.yissahfoundationss.org/psa/add_news.php on line 21
+[13-Jul-2025 18:16:10 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:33:18 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:33:23 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:33:30 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:36:31 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:45:28 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:45:43 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:56:33 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:56:40 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:57:03 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:57:47 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:57:53 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 18:57:58 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 19:10:41 UTC] PHP Warning:  move_uploaded_file(uploads/blogsingle25.jpg): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/add_news.php on line 21
+[13-Jul-2025 19:10:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpl04fj1&quot; to &quot;uploads/blogsingle25.jpg&quot; in /home/yissahf1/psa.yissahfoundationss.org/psa/add_news.php on line 21
+[13-Jul-2025 19:24:23 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 19:24:55 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 19:24:59 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 19:26:16 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 19:27:28 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 19:27:55 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 19:29:18 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 19:38:21 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 19:47:47 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[13-Jul-2025 19:47:52 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:33:41 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:36:49 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:37:12 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:38:47 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:40:50 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:44:13 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:45:21 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:47:44 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:48:41 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:50:53 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:51:17 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 06:52:13 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 07:50:35 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 07:53:15 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 07:53:35 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:13:29 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:41:41 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:41:46 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:41:54 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:42:25 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:42:33 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:42:48 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:42:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php:48
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php(48): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 48
+[14-Jul-2025 08:43:00 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:43:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php:48
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php(48): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 48
+[14-Jul-2025 08:43:04 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:54:01 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:54:09 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 08:56:28 UTC] PHP Warning:  Undefined array key "admin" in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 55
+[14-Jul-2025 09:01:11 UTC] PHP Parse error:  Unmatched '}' in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 467
+[14-Jul-2025 09:01:20 UTC] PHP Parse error:  Unmatched '}' in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 467
+[14-Jul-2025 09:04:41 UTC] PHP Parse error:  Unmatched '}' in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 457
+[14-Jul-2025 09:07:37 UTC] PHP Parse error:  Unmatched '}' in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 455
+[14-Jul-2025 09:07:39 UTC] PHP Parse error:  Unmatched '}' in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 455
+[14-Jul-2025 09:09:45 UTC] PHP Parse error:  Unmatched '}' in /home/yissahf1/psa.yissahfoundationss.org/psa/home.php on line 455
+[14-Jul-2025 09:14:07 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:14:17 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:22:05 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:23:30 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:27:50 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:28:20 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:28:48 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:29:50 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:30:16 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:59:32 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:59:43 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 09:59:50 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 10:00:20 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 10:00:47 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 10:03:15 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 10:03:19 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 10:03:54 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 10:06:18 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 10:10:03 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 10:10:30 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 10:24:12 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 11:17:49 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 11:17:53 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 11:18:03 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 11:18:29 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 11:18:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php:48
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php(48): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 48
+[14-Jul-2025 12:06:09 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:06:21 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:07:34 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:07:49 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:07:55 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:13:42 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:13:53 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:13:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php:56
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php(56): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 56
+[14-Jul-2025 12:14:02 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:27:57 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:28:04 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:36:55 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:41:02 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:41:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php:46) in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 67
+[14-Jul-2025 12:41:16 UTC] PHP Warning:  Undefined array key "admin" in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 55
+[14-Jul-2025 12:41:48 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:41:51 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:42:31 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:42:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php:46) in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 67
+[14-Jul-2025 12:49:54 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:50:16 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:53:43 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:57:49 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:57:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php:46) in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 94
+[14-Jul-2025 12:58:08 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:58:10 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:58:12 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 12:58:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php:46) in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 94
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $title in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 87
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $content in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 89
+[14-Jul-2025 13:05:59 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 89
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $title in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 90
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $content in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 91
+[14-Jul-2025 13:05:59 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 91
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $fullImageUrl in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 92
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $fullUrl in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 93
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $author in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 94
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $title in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 104
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $tags in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 105
+[14-Jul-2025 13:05:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 105
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $image in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 115
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $title in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 115
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $author in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 118
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $date in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 119
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $content in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 121
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $fullUrl in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 125
+[14-Jul-2025 13:05:59 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 125
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $title in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 126
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $fullUrl in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 126
+[14-Jul-2025 13:05:59 UTC] PHP Warning:  Undefined variable $tags in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 212
+[14-Jul-2025 13:05:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 212
+[14-Jul-2025 13:14:46 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:15:01 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:19:14 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:20:07 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:20:44 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:23:18 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:23:18 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:24:06 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:24:21 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:24:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php:46) in /home/yissahf1/psa.yissahfoundationss.org/psa/news-details.php on line 59
+[14-Jul-2025 13:25:18 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:31:21 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:31:21 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:34:07 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:34:32 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:34:32 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 13:41:38 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 14:04:38 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 14:05:53 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 14:06:02 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 14:06:22 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 14:06:22 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 14:07:14 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 14:08:24 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 14:09:58 UTC] PHP Warning:  move_uploaded_file(uploads/journals/1752502198_Invoice-21234.pdf): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php on line 24
+[14-Jul-2025 14:09:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php06vgxO&quot; to &quot;uploads/journals/1752502198_Invoice-21234.pdf&quot; in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php on line 24
+[14-Jul-2025 14:09:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tags' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php:27
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php(27): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php on line 27
+[14-Jul-2025 14:10:14 UTC] PHP Warning:  move_uploaded_file(uploads/journals/1752502214_Invoice-21234.pdf): Failed to open stream: No such file or directory in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php on line 24
+[14-Jul-2025 14:10:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpjar6Ue&quot; to &quot;uploads/journals/1752502214_Invoice-21234.pdf&quot; in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php on line 24
+[14-Jul-2025 14:10:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tags' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php:27
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php(27): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php on line 27
+[14-Jul-2025 14:13:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tags' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php:27
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php(27): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php on line 27
+[14-Jul-2025 14:15:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tags' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php:31
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php(31): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/add_journal.php on line 31
+[14-Jul-2025 14:46:38 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:13:27 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:15:00 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:15:37 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:18:56 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:19:26 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:21:08 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:21:47 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:25:01 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:29:06 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:36:40 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 15:45:30 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 16:47:48 UTC] PHP Warning:  Undefined array key "admin" in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 55
+[14-Jul-2025 17:21:03 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:21:20 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:22:15 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:23:08 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:23:23 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:23:29 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:25:20 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:25:29 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:28:00 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:28:07 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:30:42 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 17:30:49 UTC] PHP Warning:  Undefined variable $base in /home/yissahf1/psa.yissahfoundationss.org/psa/includes/header.php on line 46
+[14-Jul-2025 18:23:36 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/yissahf1/psa.yissahfoundationss.org/psa/members.php on line 131
+[14-Jul-2025 18:24:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/members.php:28
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/members.php(28): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/members.php on line 28
+[15-Jul-2025 07:32:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php:11
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 11
+[15-Jul-2025 07:32:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php:11
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 11
+[15-Jul-2025 07:40:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php:14
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php(14): mysqli->query()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 14
+[15-Jul-2025 07:42:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php:14
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php(14): mysqli->query()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 14
+[15-Jul-2025 07:43:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php:14
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php(14): mysqli->query()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 14
+[15-Jul-2025 07:52:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php:12
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 12
+[15-Jul-2025 07:55:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php:49
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php(49): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php on line 49
+[15-Jul-2025 07:56:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php:52
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php(52): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php on line 52
+[15-Jul-2025 08:02:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'contacts' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php:65
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php(65): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php on line 65
+[15-Jul-2025 08:22:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image' in 'field list' in /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php:65
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php(65): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/manage_members.php on line 65
+[15-Jul-2025 08:26:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/export_members.php:16
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/export_members.php(16): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/export_members.php on line 16
+[15-Jul-2025 08:26:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/export_members.php:16
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/export_members.php(16): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/export_members.php on line 16
+[15-Jul-2025 08:26:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/export_members.php:16
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/export_members.php(16): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/export_members.php on line 16
+[15-Jul-2025 08:28:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/add_members.php:46
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/add_members.php(46): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/add_members.php on line 46
+[15-Jul-2025 08:29:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/add_members.php:48
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/add_members.php(48): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/add_members.php on line 48
+[15-Jul-2025 08:41:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/edit_members.php:14
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/edit_members.php(14): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/edit_members.php on line 14
+[15-Jul-2025 08:41:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yissahf1_psa.members' doesn't exist in /home/yissahf1/psa.yissahfoundationss.org/psa/edit_members.php:17
+Stack trace:
+#0 /home/yissahf1/psa.yissahfoundationss.org/psa/edit_members.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/yissahf1/psa.yissahfoundationss.org/psa/edit_members.php on line 17
+[15-Jul-2025 11:30:15 UTC] PHP Warning:  Undefined array key "admin" in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 67
+[15-Jul-2025 11:30:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 67
+[16-Jul-2025 10:03:27 UTC] PHP Warning:  Undefined array key "admin" in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 67
+[16-Jul-2025 10:03:27 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 67
+[25-Jul-2025 09:13:05 UTC] PHP Warning:  Undefined array key "admin" in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 67
+[25-Jul-2025 09:13:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/yissahf1/psa.yissahfoundationss.org/psa/dashboard.php on line 67

@@ -1,0 +1,51 @@
+RewriteEngine On
+RewriteBase /psa/
+
+# Redirect .php to extensionless URL (no /psa/ duplication)
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s+/psa/(.+)\.php[\s?] [NC]
+RewriteRule ^ /psa/%1 [R=301,L]
+
+# Don't rewrite real files or directories
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Custom routes (as you already have)
+RewriteRule ^members/?$ members.php [L,QSA]
+RewriteRule ^about/?$ about.php [L,QSA]
+
+# For login and register under /auth/
+RewriteRule ^auth/login/?$ auth/login.php [L,QSA]
+RewriteRule ^auth/register/?$ auth/register.php [L,QSA]
+RewriteRule ^auth/logout/?$ auth/logout.php [L,QSA]
+
+
+# Routes (relative to /psa/)
+RewriteRule ^contact/?$ contact.php [L,QSA]
+RewriteRule ^about/?$ about.php [L,QSA]
+RewriteRule ^news-detail/([a-zA-Z0-9_-]+)$ news-details.php?slug=$1 [L,QSA]
+RewriteRule ^add_journal/?$ add_journal.php [L,QSA]
+RewriteRule ^add_news/?$ add_news.php [L,QSA]
+RewriteRule ^afpart/?$ afpart.php [L,QSA]
+RewriteRule ^conststa/?$ conststa.php [L,QSA]
+RewriteRule ^dashboard/?$ dashboard.php [L,QSA]
+RewriteRule ^login/?$ login.php [L,QSA]
+RewriteRule ^register/?$ register.php [L,QSA]
+RewriteRule ^home/?$ home.php [L,QSA]
+RewriteRule ^index/?$ index.php [L,QSA]
+RewriteRule ^main/?$ main.php [L,QSA]
+RewriteRule ^manage_comments/?$ manage_comments.php [L,QSA]
+RewriteRule ^manage_journals/?$ manage_journals.php [L,QSA]
+RewriteRule ^manage_news/?$ manage_news.php [L,QSA]
+RewriteRule ^manage_subscribers/?$ manage_subscribers.php [L,QSA]
+RewriteRule ^manage_team/?$ manage_team.php [L,QSA]
+RewriteRule ^manage_users/?$ manage_users.php [L,QSA]
+RewriteRule ^membership/?$ membership.php [L,QSA]
+RewriteRule ^news-detail/?$ news-details.php [L,QSA]
+RewriteRule ^psa-history/?$ about.php [L,QSA]
+RewriteRule ^psa-news/?$ about.php [L,QSA]
+RewriteRule ^manage_members/?$ manage_members.php [L,QSA]
+RewriteRule ^add_members/?$ add_members.php [L,QSA]
+RewriteRule ^journal/?$ journal.php [L,QSA]
+RewriteRule ^members/?$ members.php [L,QSA]
+RewriteRule ^add_team_member/?$ add_team_member.php [L,QSA]
+RewriteRule ^add_user/?$ add_user.php [L,QSA]
