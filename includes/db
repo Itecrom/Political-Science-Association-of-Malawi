@@ -1,8 +1,8 @@
 <?php
 $db_host = 'localhost';
-$db_user = 'yissahf1';
-$db_pass = 'm8s88.jJQh)XN1';
-$db_name = 'yissahf1_psa';
+$db_user = 'root';
+$db_pass = '';
+$db_name = 'psa_db';
 
 // Create the connection
 $conn = new mysqli($db_host, $db_user, $db_pass, $db_name);

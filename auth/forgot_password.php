@@ -1,10 +1,6 @@
 <?php
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\Exception;
-
 session_start();
-include '../includes/db.php';
-require '../vendor/autoload.php'; // if installed via Composer
+include '../includes/db';
 
 $msg = '';
 
@@ -50,9 +46,90 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 }
 ?>
 
-<form method="post">
-  <h3>Forgot Password</h3>
-  <?= $msg ?>
-  <input name="email" placeholder="Enter your email" required>
-  <button type="submit">Send Reset Link</button>
-</form>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Forgot Password - PSA Admin</title>
+  <link rel="icon" href="../images/favicon.png" type="image/x-icon">
+  <style>
+    body {
+      background: linear-gradient(135deg, #000, #117733, #cc0000);
+      font-family: 'Segoe UI', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      animation: fadeIn 1s ease-in-out;
+    }
+    .container {
+      background: #fff;
+      padding: 30px 40px;
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+      width: 100%;
+      max-width: 420px;
+      animation: slideIn 0.6s ease-out;
+    }
+    .container h3 {
+      text-align: center;
+      color: #117733;
+      margin-bottom: 20px;
+    }
+    input[type="email"] {
+      width: 100%;
+      padding: 10px 14px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 16px;
+      box-sizing: border-box;
+    }
+    button {
+      background: #cc0000;
+      color: #fff;
+      padding: 12px 16px;
+      border: none;
+      width: 100%;
+      font-size: 16px;
+      border-radius: 6px;
+      transition: 0.3s ease;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #b30000;
+    }
+    .message {
+      text-align: center;
+      margin-bottom: 15px;
+      color: #333;
+    }
+    footer {
+      text-align: center;
+      color: #eee;
+      font-size: 13px;
+      margin-top: 30px;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    @keyframes slideIn {
+      from { transform: translateY(40px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <form method="post">
+      <h3>Forgot Password</h3>
+      <div class="message"><?= $msg ?></div>
+      <input type="email" name="email" placeholder="Enter your email" required>
+      <button type="submit">Send Reset Link</button>
+    </form>
+  </div>
+  <footer>&copy; 2026 PSA Admin Portal. All rights reserved.</footer>
+</body>
+</html>
